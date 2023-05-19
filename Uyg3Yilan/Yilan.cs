@@ -20,7 +20,7 @@ namespace Uyg3Yilan
             Console.Clear();
                 Console.SetCursorPosition(X, Y);
             //for (int i = 0; i < a; i++) //problem var.
-            //{
+            //{ 
                 Console.Write(chr);
               //  X++;
             //}

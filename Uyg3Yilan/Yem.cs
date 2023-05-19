@@ -19,7 +19,7 @@ namespace Uyg3Yilan
             Y = sayiGen.Next(1, 21);
         }
 
-        public void ciz()
+         public void ciz()
         {
             Console.SetCursorPosition(X, Y);
             Console.WriteLine(chr);

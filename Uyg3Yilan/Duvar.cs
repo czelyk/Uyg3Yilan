@@ -11,7 +11,7 @@ namespace Uyg3Yilan
     {
         public int X = 0, Y = 0;
         public char chaaaar = '#';
-        public void insa()
+        public void insa() 
         {
             
             

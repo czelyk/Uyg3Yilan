@@ -18,7 +18,7 @@ namespace Uyg3Yilan
             Yilan snake = new Yilan();
             snake.ciz(snake.skor);
             ConsoleKeyInfo tus;
-            do
+            do 
             {
                 duvar.insa();
                 tus = Console.ReadKey();
